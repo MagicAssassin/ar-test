@@ -1,0 +1,11 @@
+Model Information:
+* title:	Floralou
+* source:	https://sketchfab.com/3d-models/floralou-4ad266b2c8374f17ae715796de185838
+* author:	cherishloveart (https://sketchfab.com/cherishloveart)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Floralou" (https://sketchfab.com/3d-models/floralou-4ad266b2c8374f17ae715796de185838) by cherishloveart (https://sketchfab.com/cherishloveart) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
